@@ -1,0 +1,17 @@
+{
+  "name": "gitbook-plugin-tonic",
+  "version": "0.0.1",
+  "description": "Embed Node REPLs in your Gitbook with Tonic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric McDaniel",
+  "license": "ISC",
+  "engines": {
+    "gitbook": "*"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
