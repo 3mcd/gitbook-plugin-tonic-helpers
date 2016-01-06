@@ -27,11 +27,7 @@ module.exports = {
 
     tonic: {
 
-    },
-
-    exercise: {
-
-      blocks: ['source', 'solution'],
+      blocks: ['source', 'result'],
 
       process: function (block) {
         var props = block.blocks.reduce(function (a, x) {
