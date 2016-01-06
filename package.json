@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-tonic",
+  "name": "gitbook-plugin-tonic-helpers",
   "version": "0.0.1",
   "description": "Embed Node REPLs in your Gitbook with Tonic",
   "main": "index.js",
